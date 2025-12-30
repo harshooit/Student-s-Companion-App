@@ -77,5 +77,6 @@ export interface BillSplit {
     totalAmount: number;
     description: string;
     participants: BillParticipant[];
+    participantIds: string[];
     createdAt: string; // ISO string
 }
