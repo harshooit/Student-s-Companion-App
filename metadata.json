@@ -1,0 +1,9 @@
+
+{
+  "name": "Campus Compass",
+  "description": "A smart campus companion app featuring an AI-powered timetable, task management, an AI study helper, a notes repository, and a local food guide. Designed to streamline student life.",
+  "requestFramePermissions": [
+    "camera",
+    "location"
+  ]
+}
